@@ -1,0 +1,6 @@
+sdas|asdas|asus-|False
+p4|asxcsdc|Procesor-|False
+Gaming PC1|Gaming PC1  je napredni uredjaj novih tehnologija|Procesor-|False
+Graficka kartica|Gaming graficka kartica, podrzava sve najnovije.||False
+PCG 2|PC racunar sa gaming komponentama|Procesor-Maticna ploca2-|False
+komp|radna masina|Procesor3-Maticna plosa-Graficka kartica-|False

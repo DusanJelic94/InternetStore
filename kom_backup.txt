@@ -1,0 +1,6 @@
+Procesor3|7500|2|Intel i7|Procesor|False
+Procesor2|5200|15|Intel i5|Procesor|False
+Procesor|4500|-1|Brzi gaming procesor|Procesori|False
+Maticna ploca2|6500|5|Maticna ploca 2011|Maticne ploce|False
+Maticna plosa|7300|3|Maticna ploca nove generacije|Maticne ploce|False
+Graficka kartica|4500|5|ATI Radeon 4850M|Graficke kartice|False
